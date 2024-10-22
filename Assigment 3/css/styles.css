@@ -1,0 +1,68 @@
+body {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+
+#header-nav{
+  background-color: Grey;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 {
+  color: black;
+  position: relative;
+  top: 50%;
+  margin-top: -.5em;
+  }
+
+#nav-list {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+border: 1px solid black;
+}
+
+li{
+color: black;
+border: 1px solid black;
+text-decoration: none;
+}
+
+
+section{
+  background-color: Grey;
+  padding: 1px 1px 1px 1px;
+  height: auto;
+  Color: black;
+  Border: 10px solid white;
+}
+
+
+#p1 {
+  Margin-top: 20px; 
+  Font-size: 30px;
+  Font: bold;
+  position: relative;
+  Float: center;
+}
+
+#p2{
+ Margin-top: 20px; 
+  Font-size: 30px;
+  Font: bold;
+  position: relative;
+  Float: center;
+}
+
+#p3 {
+ Margin-top: 20px; 
+  Font-size: 30px;
+  Font: bold;
+  position: relative;
+  Float: center;
+}
